@@ -5,7 +5,7 @@ Some of the resources to read about the cancellation of Promises, and the eventu
 ## Specifications and Related
 
 | | |
-| --- | --- |
+|---|---|
 | Promise A-Plus Cancellation Spec | https://github.com/promises-aplus/cancellation-spec/issues |
 | Cancelable Promise | https://github.com/domenic/cancelable-promise |
 
@@ -22,10 +22,10 @@ Some of the resources to read about the cancellation of Promises, and the eventu
 
 ### Bluebird
 
-| | |
-|---|---|
-| 3.0 Cancellation overhaul | https://github.com/petkaantonov/bluebird/issues/415 |
-| Cancellation API docs | http://bluebirdjs.com/docs/api/cancellation.html |
+| Title | Link | Highlights |
+|---|---|---|
+| 3.0 Cancellation overhaul | https://github.com/petkaantonov/bluebird/issues/415 | [summary](https://github.com/petkaantonov/bluebird/issues/415#issuecomment-88057439) |
+| Cancellation API docs | http://bluebirdjs.com/docs/api/cancellation.html | |
 
 
 ## Videos
