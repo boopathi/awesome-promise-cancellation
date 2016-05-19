@@ -8,6 +8,7 @@ Some of the resources to read about the cancellation of Promises, and the eventu
 |---|---|---|
 | Promise A-Plus Cancellation Spec | https://github.com/promises-aplus/cancellation-spec/issues |
 | Cancelable Promise | https://github.com/domenic/cancelable-promise | [Third State](https://github.com/domenic/cancelable-promise/blob/master/Third%20State.md) |
+| Bluebird Cancellation API | http://bluebirdjs.com/docs/api/cancellation.html |
 
 ## Discussions
 
