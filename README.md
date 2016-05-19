@@ -43,7 +43,3 @@ and of course all other issues as well - https://github.com/domenic/cancelable-p
 | | |
 | --- | --- |
 | Debate about Promise Cancellation with @benlesh & @samccone | https://www.youtube.com/watch?v=65-WwVfAcl8 |
-
-## License
-
-MIT - http://boopathi.mit-license.org
