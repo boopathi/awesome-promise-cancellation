@@ -1,6 +1,6 @@
 # Awesome Promise Cancellation
 
-Some of the resources to read about the cancellation of Promises, and the eventually the fetch API.
+Some resources to read about the cancellation of Promises.
 
 ## Specifications / Related Implementations
 
