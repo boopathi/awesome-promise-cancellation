@@ -2,7 +2,7 @@
 
 Some of the resources to read about the cancellation of Promises, and the eventually the fetch API.
 
-## Specifications and Related
+## Specifications / Related Implementations
 
 | Title | Link | Highlights |
 |---|---|---|
@@ -20,7 +20,6 @@ Some of the resources to read about the cancellation of Promises, and the eventu
 | Aborting a fetch | https://github.com/whatwg/fetch/issues/27 |
 | ES Discuss - Cancelable Promises | https://esdiscuss.org/topic/cancelable-promises |
 
-
 ### Bluebird
 
 | Title | Link | Highlights |
@@ -30,11 +29,11 @@ Some of the resources to read about the cancellation of Promises, and the eventu
 | 3.0 Cancellation overhaul | https://github.com/petkaantonov/bluebird/issues/415 | [summary](https://github.com/petkaantonov/bluebird/issues/415#issuecomment-88057439) |
 | Don't use a third cancelled state | https://github.com/petkaantonov/bluebird/issues/565 | [strategies](https://github.com/petkaantonov/bluebird/issues/565#issuecomment-90760540) |
 
-## Articles
+### Others
 
 | | |
 |---|---|
-| Promise & fetch cancellation | https://phuu.net/2015/11/25/promise-and-fetch.html |
+| 
 
 ## Videos
 
