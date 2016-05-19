@@ -29,11 +29,14 @@ Some resources to read about the cancellation of Promises.
 | 3.0 Cancellation overhaul | https://github.com/petkaantonov/bluebird/issues/415 | [summary](https://github.com/petkaantonov/bluebird/issues/415#issuecomment-88057439) |
 | Don't use a third cancelled state | https://github.com/petkaantonov/bluebird/issues/565 | [strategies](https://github.com/petkaantonov/bluebird/issues/565#issuecomment-90760540) |
 
-### Others
+### Cancelable-Promise
 
 | | |
 |---|---|
-| 
+| How async functions play with cancellation | https://github.com/domenic/cancelable-promise/issues/7 |
+| Potential Security issue when applied to fetch | https://github.com/domenic/cancelable-promise/issues/4 |
+
+and of course all other issues as well - https://github.com/domenic/cancelable-promise/issues
 
 ## Videos
 
