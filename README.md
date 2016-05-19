@@ -10,4 +10,6 @@ Some of the resources to read about the cancellation of Promises, and the eventu
 
 ## Videos
 
+| Title | Link |
+| --- | --- |
 | Debate about Promise Cancellation with @benlesh & @samccone | https://www.youtube.com/watch?v=65-WwVfAcl8 |
