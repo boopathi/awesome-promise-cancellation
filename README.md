@@ -11,7 +11,7 @@ Some of the resources to read about the cancellation of Promises, and the eventu
 
 ## Discussions
 
-### Where it all started
+### Starting points
 
 | | |
 |---|---|
