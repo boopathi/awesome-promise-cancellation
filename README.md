@@ -2,6 +2,13 @@
 
 Some of the resources to read about the cancellation of Promises, and the eventually the fetch API.
 
+## Specifications and Related
+
+| | |
+| --- | --- |
+| Promise A-Plus Cancellation Spec | https://github.com/promises-aplus/cancellation-spec/issues |
+| Cancelable Promise | https://github.com/domenic/cancelable-promise |
+
 ## Discussions
 
 ### Where it all started
@@ -13,11 +20,13 @@ Some of the resources to read about the cancellation of Promises, and the eventu
 | ES Discuss - Cancelable Promises | https://esdiscuss.org/topic/cancelable-promises |
 
 
-### Bluebird discussions
+### Bluebird
 
 | | |
 |---|---|
 | 3.0 Cancellation overhaul | https://github.com/petkaantonov/bluebird/issues/415 |
+| Cancellation API docs | http://bluebirdjs.com/docs/api/cancellation.html |
+
 
 ## Videos
 
