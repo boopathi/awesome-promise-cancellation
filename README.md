@@ -17,7 +17,7 @@ Some of the resources to read about the cancellation of Promises, and the eventu
 
 | | |
 |---|---|
-| | |
+| 3.0 Cancellation overhaul | https://github.com/petkaantonov/bluebird/issues/415 |
 
 ## Videos
 
