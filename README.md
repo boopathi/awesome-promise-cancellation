@@ -1,6 +1,6 @@
 # Awesome Promise Cancellation
 
-Some resources to read about the cancellation of Promises.
+Some resources to read about the cancellation/cancelation of Promises.
 
 ## Specifications / Related Implementations
 
