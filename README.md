@@ -27,6 +27,7 @@ Some of the resources to read about the cancellation of Promises, and the eventu
 | Cancellation API docs | http://bluebirdjs.com/docs/api/cancellation.html |
 | Promise.cancel() | https://github.com/petkaantonov/bluebird/issues/554 |
 | 3.0 Cancellation overhaul | https://github.com/petkaantonov/bluebird/issues/415 | [summary](https://github.com/petkaantonov/bluebird/issues/415#issuecomment-88057439) |
+| Don't use a third cancelled state | https://github.com/petkaantonov/bluebird/issues/565 |
 
 ## Videos
 
