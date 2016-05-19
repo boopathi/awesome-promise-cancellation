@@ -30,9 +30,15 @@ Some of the resources to read about the cancellation of Promises, and the eventu
 | 3.0 Cancellation overhaul | https://github.com/petkaantonov/bluebird/issues/415 | [summary](https://github.com/petkaantonov/bluebird/issues/415#issuecomment-88057439) |
 | Don't use a third cancelled state | https://github.com/petkaantonov/bluebird/issues/565 | [strategies](https://github.com/petkaantonov/bluebird/issues/565#issuecomment-90760540) |
 
+## Articles
+
+| Title | Link |
+|---|---|
+| Promise & fetch cancellation | https://phuu.net/2015/11/25/promise-and-fetch.html |
+
 ## Videos
 
-| | |
+| Title | Link |
 | --- | --- |
 | Debate about Promise Cancellation with @benlesh & @samccone | https://www.youtube.com/watch?v=65-WwVfAcl8 |
 
