@@ -32,13 +32,13 @@ Some of the resources to read about the cancellation of Promises, and the eventu
 
 ## Articles
 
-| Title | Link |
+| | |
 |---|---|
 | Promise & fetch cancellation | https://phuu.net/2015/11/25/promise-and-fetch.html |
 
 ## Videos
 
-| Title | Link |
+| | |
 | --- | --- |
 | Debate about Promise Cancellation with @benlesh & @samccone | https://www.youtube.com/watch?v=65-WwVfAcl8 |
 
