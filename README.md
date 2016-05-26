@@ -2,7 +2,7 @@
 
 Some resources to read about the cancellation/cancelation of Promises.
 
-## Specifications / Related Implementations
+## Specification proposals / Related Implementations
 
 | Title | Link | Highlights |
 |---|---|---|
