@@ -38,6 +38,12 @@ Some resources to read about the cancellation/cancelation of Promises.
 
 and of course all other issues as well - https://github.com/domenic/cancelable-promise/issues
 
+## Slides
+
+| | |
+|----|----|
+| Investigations and a proposed direction | https://docs.google.com/presentation/d/1V4vmC54gJkwAss1nfEt9ywc-QOVOfleRxD5qtpMpc8U |
+
 ## Videos
 
 | | |
